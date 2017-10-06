@@ -1,0 +1,1 @@
+web: gunicorn LogLife.wsgi --log-file -
